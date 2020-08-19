@@ -1,7 +1,3 @@
-luci-app-npc
-------------
-Nps Client For OpenWrt-19.07
-
 依赖： [npc][1]
 
 截图：

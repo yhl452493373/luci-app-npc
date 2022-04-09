@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Nps Client"
-msgstr "Nps 客户端"
+msgstr "NPS 客户端 —— NPC"
 
 msgid "Server"
 msgstr "服务端IP或域名"
@@ -27,7 +27,7 @@ msgid "False"
 msgstr "否"
 
 msgid "Nps is a fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
-msgstr "Nps 是一款轻量级、高性能、功能强大的内网穿透代理服务器"
+msgstr "NPS 是一款轻量级、高性能、功能强大的内网穿透代理服务器"
 
 msgid "Basic Setting"
 msgstr "基本设置"
@@ -63,4 +63,4 @@ msgid "The contents will be compressed to speed up the traffic forwarding speed,
 msgstr "压缩传输内容，加快流量转发速度，会额外消耗 cpu 资源"
 
 msgid "Encrypted the communication between Npc and Nps, will effectively prevent the traffic intercepted."
-msgstr "加密传输 npc 与 nps 之间的通信内容，会有效防止流量被拦截"
+msgstr "加密传输 NPC 与 NPS 之间的通信内容，会有效防止流量被拦截"

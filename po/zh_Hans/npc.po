@@ -50,6 +50,15 @@ msgstr "KCP"
 msgid "vkey"
 msgstr "密钥"
 
+msgid "RUNNING"
+msgstr "运行中"
+
+msgid "NOT RUNNING"
+msgstr "未运行"
+
+msgid "Collecting data..."
+msgstr "收集数据..."
+
 msgid "The contents will be compressed to speed up the traffic forwarding speed, but this will consume some additional cpu resources."
 msgstr "压缩传输内容，加快流量转发速度，会额外消耗 cpu 资源"
 

@@ -15,7 +15,7 @@ msgid "Nps Client"
 msgstr "Nps 客户端"
 
 msgid "Server"
-msgstr "Server"
+msgstr "服务端IP或域名"
 
 msgid "Auto Reconnection"
 msgstr "自动重连"
@@ -34,6 +34,9 @@ msgstr "加密传输"
 
 msgid "Protocol Type"
 msgstr "协议类型"
+
+msgid "vkey"
+msgstr "密钥"
 
 msgid "The contents will be compressed to speed up the traffic forwarding speed, but this will consume some additional cpu resources."
 msgstr "压缩传输内容，加快流量转发速度，会额外消耗 cpu 资源"

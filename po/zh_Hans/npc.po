@@ -35,6 +35,12 @@ msgstr "加密传输"
 msgid "Protocol Type"
 msgstr "协议类型"
 
+msgid "TCP Protocol"
+msgstr "TCP"
+
+msgid "KCP Protocol"
+msgstr "KCP"
+
 msgid "vkey"
 msgstr "密钥"
 

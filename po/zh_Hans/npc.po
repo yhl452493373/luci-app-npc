@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Nps Client"
-msgstr "NPC —— NPS 客户端"
+msgstr "NPC — NPS 客户端"
 
 msgid "Server"
 msgstr "服务端IP或域名"

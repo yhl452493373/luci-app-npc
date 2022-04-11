@@ -27,7 +27,7 @@ msgid "False"
 msgstr "否"
 
 msgid "Nps is a fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
-msgstr "NPS 是一款轻量级、高性能、功能强大的内网穿透代理服务器"
+msgstr "NPS 是一款轻量级、高性能、功能强大的内网穿透代理服务器。NPC 是其客户端。"
 
 msgid "Basic Setting"
 msgstr "基本设置"

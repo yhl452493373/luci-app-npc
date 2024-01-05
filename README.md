@@ -1,9 +1,5 @@
-依赖： [npc][1]
+## 依赖：
+[npc](https://github.com/yhl452493373/npc)
 
-截图：
-
-![截图][2]
-
-
-  [1]: https://github.com/lloyd18/npc
-  [2]: https://raw.githubusercontent.com/lloyd18/luci-app-npc/master/Snipaste_2020-07-29_05-36-52.png
+## 截图：
+![Snipaste_2020-07-29_05-36-52.png](Snipaste_2020-07-29_05-36-52.png)
